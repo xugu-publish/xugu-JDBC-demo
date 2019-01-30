@@ -1,7 +1,7 @@
-#Ðé¹ÈÊý¾Ý¿âÊ¹ÓÃJDBCµÄdemo³ÌÐò
+#è™šè°·æ•°æ®åº“ä½¿ç”¨JDBCçš„demoç¨‹åº
 
-1¡¢GetConnection ÀàÍ¨¹ýJDBCºÍÐé¹ÈÊý¾Ý¿â½¨Á¢Á¬½Ó¡£Á¬½Ó·½Ê½°üº¬ÁËÁ¬½Ó²ÎÊý·½Ê½¡¢Êý¾ÝÔ´·½Ê½ºÍ¶àIP·½Ê½¡£
-2¡¢StatementTest ²âÊÔÀàÊµÏÖÁËDDLÓï¾ä¡¢DMLÓï¾äµÄÖ´ÐÐ£¬¶Ô¶à½á¹û¼¯µÄ´¦Àí£¬¶ÔGeneratedKeyµÄ´¦Àí¡£
-3¡¢PreparedStatement ²âÊÔÀàÊµÏÖÁË¶ÔDDLÓï¾ä²âÖ´ÐÐ£¬¶ÔLOB¶ÔÏóµÄ²Ù×÷£¬ÅúÁ¿²åÈëÊý¾ÝºÍ¶ÔGeneratedKeyµÄ´¦Àí¡£
-4¡¢CallableStatementTest ²âÊÔÀàÊµÏÖÁË¶Ô´æ´¢¹ý³Ì£¨·µ»ØÒýÓÃÓÎ±ê£©¡¢´æ´¢º¯ÊýµÄµ÷ÓÃ£¨·µ»ØÖµ£©£¬¶Ô´øÃû²ÎÊýµÄÉèÖÃµÈ´¦Àí¡£
-5¡¢target/libÎªÐé¹ÈJDBCÇý¶¯
+1. GetConnection ç±»é€šè¿‡JDBCå’Œè™šè°·æ•°æ®åº“å»ºç«‹è¿žæŽ¥ã€‚è¿žæŽ¥æ–¹å¼åŒ…å«äº†è¿žæŽ¥å‚æ•°æ–¹å¼ã€æ•°æ®æºæ–¹å¼å’Œå¤šIPæ–¹å¼ã€‚
+2. StatementTest æµ‹è¯•ç±»å®žçŽ°äº†DDLè¯­å¥ã€DMLè¯­å¥çš„æ‰§è¡Œï¼Œå¯¹å¤šç»“æžœé›†çš„å¤„ç†ï¼Œå¯¹GeneratedKeyçš„å¤„ç†ã€‚
+3. PreparedStatement æµ‹è¯•ç±»å®žçŽ°äº†å¯¹DDLè¯­å¥æµ‹æ‰§è¡Œï¼Œå¯¹LOBå¯¹è±¡çš„æ“ä½œï¼Œæ‰¹é‡æ’å…¥æ•°æ®å’Œå¯¹GeneratedKeyçš„å¤„ç†ã€‚
+4. CallableStatementTest æµ‹è¯•ç±»å®žçŽ°äº†å¯¹å­˜å‚¨è¿‡ç¨‹ï¼ˆè¿”å›žå¼•ç”¨æ¸¸æ ‡ï¼‰ã€å­˜å‚¨å‡½æ•°çš„è°ƒç”¨ï¼ˆè¿”å›žå€¼ï¼‰ï¼Œå¯¹å¸¦åå‚æ•°çš„è®¾ç½®ç­‰å¤„ç†ã€‚
+5. target/libä¸ºè™šè°·JDBCé©±åŠ¨
